@@ -1,0 +1,7 @@
+.header{
+   background-color: rgb(88, 127, 212);
+}
+
+.row>*{
+   width: 0%;
+}
