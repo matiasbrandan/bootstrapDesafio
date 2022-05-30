@@ -7,6 +7,9 @@
    width: 100%;
    background-size: cover;
 }
+.main {
+   margin-top: 1rem;
+}
 
 .galeria{
    padding-top: 1rem;
@@ -17,4 +20,13 @@ footer{
 .lista{
    list-style: none;
    color: #fff;
+}
+
+.cuadroDeTexto {
+   resize: none;
+   height: 100rem;
+   margin-top: 1rem;
+}
+.textPContactos{
+   text-align:center;
 }
