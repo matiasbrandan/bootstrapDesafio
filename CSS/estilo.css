@@ -6,6 +6,15 @@
    height: 70vh; 
    width: 100%;
    background-size: cover;
-   
+}
 
+.galeria{
+   padding-top: 1rem;
+}
+footer{
+   background: #000;
+}
+.lista{
+   list-style: none;
+   color: #fff;
 }
